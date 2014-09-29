@@ -15,7 +15,7 @@ public class Settings {
 	public static boolean VSYNC = true;
 	
 	/*
-	 * State ID's
+	 * State ID's 
 	 */
 	
 	public static final int LOGIN = 0;

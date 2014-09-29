@@ -16,7 +16,7 @@ public class LoginState extends BasicGameState{
 	
 	@Override
 	public void init(GameContainer gc, StateBasedGame sbg)throws SlickException {
-		
+		 
 	}
 
 	@Override

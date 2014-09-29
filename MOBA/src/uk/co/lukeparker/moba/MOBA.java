@@ -32,5 +32,4 @@ public class MOBA extends StateBasedGame{
 		
 		app.start();
 	}
-	
 }
