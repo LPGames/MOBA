@@ -31,5 +31,6 @@ public class MOBA extends StateBasedGame{
 		app.setVSync(Settings.VSYNC);
 		
 		app.start();
+		System.out.println("Game Container Initialized Successfully");
 	}
 }
