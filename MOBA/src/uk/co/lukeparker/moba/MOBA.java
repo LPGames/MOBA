@@ -32,5 +32,6 @@ public class MOBA extends StateBasedGame{
 		
 		app.start();
 		System.out.println("Game Container Initialized Successfully");
+		// This is a test comment
 	}
 }
